@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Travel List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project from [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) course.
 
 ## Available Scripts
 
