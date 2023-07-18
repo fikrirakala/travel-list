@@ -1,4 +1,4 @@
-# Travel List
+# Travel List React App
 
 This is a project from [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) course.
 
